@@ -7,5 +7,5 @@ reminders:
     days: [mon, tue, wed, thu, fri]
     text: "Aprovechar el día para obtener lo que quiero"
 
-  - times: ["21:55"]
+  - times: ["22:05"]
     text: "Prueba desde GH"
