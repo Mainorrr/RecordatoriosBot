@@ -1,0 +1,11 @@
+timezone: America/Costa_Rica
+reminders:
+  - times: ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00"]
+    text: "Beber agua 💧"
+
+  - times: ["07:00"]
+    days: [mon, tue, wed, thu, fri]
+    text: "Aprovechar el día para obtener lo que quiero"
+
+  - times: ["09:50"]
+    text: "Prueba desde GH"
